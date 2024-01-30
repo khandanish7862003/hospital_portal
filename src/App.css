@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.color-brder{
+margin-left: 6px;
+  background-color: #61dafb;
+}
+.button-n{
+  background-color: azure;
+}
