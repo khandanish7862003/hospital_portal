@@ -49,19 +49,19 @@ if(currentState==='white'){
           <NavLink className="nav-link active" aria-current="page" to="/home">Home</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" href="/">Doctors</NavLink>
+          <NavLink className="nav-link" to="/doctor">Doctors</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" href="/">Appointments</NavLink>
+          <NavLink className="nav-link" to="/appointment">Appointments</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" href="/">Event</NavLink>
+          <NavLink className="nav-link" to="/event">Event</NavLink>
         </li>
         <li className="nav-item">
           <NavLink className="nav-link" href="/">Gallery</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" href="/">Contact</NavLink>
+          <NavLink className="nav-link" to="/contact">Contact</NavLink>
         </li>
         <li className="nav-item">
           <NavLink className="nav-link" href="/">Pathology</NavLink>

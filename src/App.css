@@ -377,3 +377,10 @@ p.para {
     padding-top: 5px;
     color: #333333;
 }
+
+.align-text{
+  color: #424242;
+  border: #e74c3c;
+border-radius: 2px solid black;
+padding-top: 50px;
+}
