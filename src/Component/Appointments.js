@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../Footer/footer'
 
 function Appointments() {
   return (
@@ -55,6 +56,7 @@ function Appointments() {
     <button type="submit" className="btn btn-primary">Book Appointment with id?</button>
   </div>
 </form>
+<Footer/>
     </div>
     </>
   )

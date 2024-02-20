@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../Footer/footer'
 
 function Doctors() {
   return (
@@ -45,6 +46,7 @@ function Doctors() {
   </div>
 </div>
 </div>
+<Footer/>
       </>
    
     
